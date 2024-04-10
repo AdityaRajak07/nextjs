@@ -1,0 +1,42 @@
+.header-title{
+    text-align: left;
+    font-size: 35px;
+    font-family: Georgia, serif;
+}
+
+.icons{
+    padding: 10px;
+}
+
+
+.WhatsApp{
+    color:  green;
+}
+
+.Facebook{
+    color:  #3b5998;
+}
+
+.LinkedIn{
+    color:  #0A66C2;
+    
+}
+
+.Instagram{
+    color:  #d62976;
+    
+}
+
+.Email{
+    color:  red;
+    
+}
+
+.Twitter{
+    color:  #00acee;
+    
+}
+
+.Reddit{
+    color: 	#ED001C;
+}

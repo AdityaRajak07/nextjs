@@ -1,0 +1,35 @@
+.Paper{
+    padding: 20px;
+    display: grid;
+    gap: 20px;
+    max-width: 85%;
+}
+.inputs{
+    display: grid;
+    gap: 30px;
+}
+
+.grido{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+    gap: 30px;
+}
+
+.gridoTwo{
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+}
+
+@media screen and (max-width: 700px) {
+    .grido{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        gap: 30px;
+    }
+  }
+
+.deleteicon{
+    height: 60px !important
+}
